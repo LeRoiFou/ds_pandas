@@ -63,4 +63,7 @@ if st.button("Liste des villes"):
         st.dataframe(group_df['city'])
     else:
         st.write("Aucun fichier sélectionné")
+        
+st.markdown("# C'est qui le boss ?!? #")
 
+st.text("À gauche c'est débit et à droite c'est crédit 🤣😆")
