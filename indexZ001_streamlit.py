@@ -2,7 +2,7 @@
 LIEN ENTRE LA DATA SCIENCE ET LE SAAS
 
 Pour une facilité du recours à un SAAS avec des données de Pandas, Numpy, 
-le plus simple est de recours au package Streamlit
+le plus simple est de recourir au package Streamlit
 
 Documentation
 Présentation : https://datascientest.com/streamlit-ou-loutil-pour-presenter-votre-travail-de-machine-learning
